@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automationDemoSite.DropDown">
+      <class name="facebookDemo.DateCalender1">
         <methods>
-          <include name="mainn"/>
+          <include name="google"/>
         </methods>
-      </class> <!-- automationDemoSite.DropDown -->
+      </class> <!-- facebookDemo.DateCalender1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
